@@ -1,0 +1,22 @@
+{
+  "name": "nodecalculator",
+  "version": "1.0.0",
+  "description": "ui",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarfaraz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "enquire": "0.0.2",
+    "enquirer": "^2.3.0",
+    "figlet": "^1.2.1",
+    "inquire": "^0.4.8",
+    "inquirer": "^6.3.1",
+    "prompt": "^1.0.0"
+  }
+}
